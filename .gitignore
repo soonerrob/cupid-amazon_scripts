@@ -181,3 +181,11 @@ shipment-downloads/archive/shipment_FBA17G11WYMQ.tsv
 shipment-downloads/archive/shipment_FBA17GL517VQ.tsv
 shipment-downloads/archive/shipment_FBA17KML05ZS.tsv
 credentials.py
+settlement-downloads/disb_01-03-2024_01-17-2024_271665019739.tsv
+.gitignore
+settlement-downloads/archive/disb_11-08-2023_11-22-2023_242666019683.tsv
+settlement-downloads/archive/disb_11-22-2023_12-06-2023_249587019697.tsv
+settlement-downloads/archive/disb_12-06-2023_12-20-2023_256542019711.tsv
+settlement-downloads/archive/disb_12-20-2023_01-03-2024_264142019725.tsv
+shipment-downloads/archive/shipment_FBA17L4Z5NGQ.tsv
+shipment-downloads/archive/shipment_FBA17MB13L7T.tsv
